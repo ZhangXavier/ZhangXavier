@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I'm [XAVIER](https://www.zxavier.com) 👋
 
 <!--
 **ZhangXavier/ZhangXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Xavier's github stats](https://github-readme-stats.vercel.app/api?username=ZhangXavier&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Xavier's github stats](https://github-readme-stats.vercel.app/api?username=ZhangXavier&count_private=true&show_icons=true&theme=nord)](https://github.com/ZhangXavier)
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhangXavier&repo=caddy-docker&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhangXavier&repo=nginx-pagespeed-docker&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangXavier&theme=nord)](https://github.com/ZhangXavier)
