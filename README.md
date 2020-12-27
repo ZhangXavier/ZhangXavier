@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 [![Xavier's github stats](https://github-readme-stats.vercel.app/api?username=ZhangXavier&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangXavier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhangXavier&repo=caddy-docker&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhangXavier&repo=nginx-pagespeed-docker&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
